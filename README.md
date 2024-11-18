@@ -2,22 +2,21 @@
 
 <h1 align="center"> DevLinks </h1>
 
+##  Projeto
 
+O DevLinks é usado  como um cartão para vizualizar e orientar sobre  determinado assunto.
+
+- [Acesse o projeto finalizado, online](https://github.com/Caetano-Turra/Curso-Web-Caetano)
 
 ##  Tecnologias
 
-Esse projeto foi desenvolvido com as essas de linguagems  tecnologias:
+Esse projeto foi realizado com as essas  linguagems:
 
-- HTML e CSS
+
 - JavaScript
 - Git e Github
 - Figma
-
-##  Projeto
-
-O DevLinks é um agregador de links para usar como um cartão para vizualizar e orientar sobre o determinado assunto.
-
-- [Acesse o projeto finalizado, online](https://github.com/Caetano-Turra/Curso-Web-Caetano)
+- HTML e CSS
 
 ## :memo: Licença
 
