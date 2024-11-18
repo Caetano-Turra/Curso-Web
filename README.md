@@ -18,9 +18,4 @@ Esse projeto foi realizado com as essas  linguagems:
 - Figma
 - HTML e CSS
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
 
